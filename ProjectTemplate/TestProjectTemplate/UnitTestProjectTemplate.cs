@@ -1,8 +1,8 @@
 using ProjectTemplate;
 
-namespace TestProjectTemplate2
+namespace TestProjectTemplate
 {
-    public class UnitTest1
+    public class UnitTestProjectTemplate
     {
         /*Enter test cases here*/
         [Fact]
